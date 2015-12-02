@@ -1,0 +1,66 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\Debug\ECE375-Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ECE375-Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ECE375-Lab3.map</FILE>
+  <FILE>ECE375-Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>41</LINE></INIT>
+  <LCDInit><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>75</LINE></LCDInit>
+  <STRING><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>115</LINE></STRING>
+  <LOADLOOPONE><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>57</LINE></LOADLOOPONE>
+  <LOADLOOPTWO><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>67</LINE></LOADLOOPTWO>
+  <MAIN><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>80</LINE></MAIN>
+  <LCDWrite><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>170</LINE></LCDWrite>
+  <FUNC><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>98</LINE></FUNC>
+  <STRING_END><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\main.asm</FILE><LINE>118</LINE></STRING_END>
+  <LCDINIT_L1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>139</LINE></LCDINIT_L1>
+  <LCDWait><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>492</LINE></LCDWait>
+  <LCDWriteCmd><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>436</LINE></LCDWriteCmd>
+  <LCDClr><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>230</LINE></LCDClr>
+  <LCDWrLn1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>180</LINE></LCDWrLn1>
+  <LCDWrLn2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>205</LINE></LCDWrLn2>
+  <LCDSetLine><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>388</LINE></LCDSetLine>
+  <LCDWriteLine><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>423</LINE></LCDWriteLine>
+  <LCDClrLn1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>240</LINE></LCDClrLn1>
+  <LCDClrLn2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>265</LINE></LCDClrLn2>
+  <LCDClrLine><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>404</LINE></LCDClrLine>
+  <LCDWriteByte><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>302</LINE></LCDWriteByte>
+  <LCDWriteByte_3><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>323</LINE></LCDWriteByte_3>
+  <LCDWriteByte_1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>313</LINE></LCDWriteByte_1>
+  <LCDWriteByte_2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>318</LINE></LCDWriteByte_2>
+  <LCDWriteChar><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>457</LINE></LCDWriteChar>
+  <Bin2ASCII><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>339</LINE></Bin2ASCII>
+  <B2A_1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>352</LINE></B2A_1>
+  <B2A_3><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>360</LINE></B2A_3>
+  <B2A_2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>357</LINE></B2A_2>
+  <div10><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>515</LINE></div10>
+  <LCDClrLine_1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>407</LINE></LCDClrLine_1>
+  <LCDWriteLine_1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>425</LINE></LCDWriteLine_1>
+  <LCDWriteData><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>472</LINE></LCDWriteData>
+  <LCDWC_L1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>443</LINE></LCDWC_L1>
+  <LCDW_L1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>493</LINE></LCDW_L1>
+  <LCDW_L2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>494</LINE></LCDW_L2>
+  <div10_1><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>554</LINE></div10_1>
+  <div10_2><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab3\ECE375-Lab3\LCDDriver.asm</FILE><LINE>560</LINE></div10_2>
+ </LABELS>
+</ASSEMBLER_INFO>

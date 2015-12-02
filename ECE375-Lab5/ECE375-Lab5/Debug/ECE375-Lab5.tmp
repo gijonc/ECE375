@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\Debug\ECE375-Lab5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ECE375-Lab5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ECE375-Lab5.map</FILE>
+  <FILE>ECE375-Lab5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>77</LINE></INIT>
+  <HitRight><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>132</LINE></HitRight>
+  <HitLeft><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>166</LINE></HitLeft>
+  <MAIN><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>106</LINE></MAIN>
+  <Wait><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>203</LINE></Wait>
+  <Loop><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>208</LINE></Loop>
+  <OLoop><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>209</LINE></OLoop>
+  <ILoop><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>210</LINE></ILoop>
+  <FUNC><FILE>C:\Users\Jemim\Documents\Atmel Studio\7.0\ECE375-Lab5\ECE375-Lab5\main.asm</FILE><LINE>226</LINE></FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>
